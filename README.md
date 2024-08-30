@@ -48,6 +48,6 @@ STRATEGY_EXECUTOR_DISPLAY_NAME=your_node_name
 STRATEGY_EXECUTOR_BENEFICIARY=your_metamask_address
 SIGNER_PRIVATE_KEY=your_private_key
 STRATEGY_EXECUTOR_IP_ADDRESS=your_external_ip
-
+```
 
 If you found this tool useful, please don’t forget to ⭐ the repository!
