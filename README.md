@@ -13,7 +13,7 @@
 1. Clone the repository:
     ```bash
     git clone https://github.com/sicmundu/elixir-node-installer.git
-    cd elixir-node-control-center
+    cd elixir-node-installer
     ```
 
 2. Make the script executable:
